@@ -1,5 +1,5 @@
 varname = "Susan";
 varheight = 74;
-varmessage = ` is ${height} inches tall`;
+varmessage = ` is ${74} inches tall`;
 
 module.exports = {name, height, message};
