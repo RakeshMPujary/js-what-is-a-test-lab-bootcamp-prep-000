@@ -1,4 +1,3 @@
-// write your code below!
 varname = "Susan";
 varheight = 74;
 varmessage = ` is ${74} inches tall`;
